@@ -1,0 +1,159 @@
+report_id,entity_type,entity_value,analytical_relevance
+TRN03002,ipv4,198.51.100.143,"Low – generic indicator, needs internal validation"
+TRN03002,domain,node-3002-sync.example,"Low – generic indicator, needs internal validation"
+TRN03002,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03003,ipv4,198.51.100.144,"Low – generic indicator, needs internal validation"
+TRN03003,domain,node-3003-sync.example,"Low – generic indicator, needs internal validation"
+TRN03003,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03003,threat_actor_or_malware,DustRAT,Medium – known actor or malware name
+TRN03004,ipv4,198.51.100.145,"Low – generic indicator, needs internal validation"
+TRN03004,domain,node-3004-sync.example,"Low – generic indicator, needs internal validation"
+TRN03004,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03005,ipv4,198.51.100.146,"Low – generic indicator, needs internal validation"
+TRN03005,domain,node-3005-sync.example,"Low – generic indicator, needs internal validation"
+TRN03005,threat_actor_or_malware,GridLock,Medium – known actor or malware name
+TRN03007,ipv4,198.51.100.148,"Low – generic indicator, needs internal validation"
+TRN03007,domain,node-3007-sync.example,"Low – generic indicator, needs internal validation"
+TRN03007,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03007,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03008,ipv4,198.51.100.149,"Low – generic indicator, needs internal validation"
+TRN03008,domain,node-3008-sync.example,"Low – generic indicator, needs internal validation"
+TRN03008,threat_actor_or_malware,Copper Dune,Medium – known actor or malware name
+TRN03008,threat_actor_or_malware,GridLock,Medium – known actor or malware name
+TRN03010,ipv4,198.51.100.151,"Low – generic indicator, needs internal validation"
+TRN03010,domain,node-3010-sync.example,"Low – generic indicator, needs internal validation"
+TRN03010,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03013,ipv4,198.51.100.154,"Low – generic indicator, needs internal validation"
+TRN03013,domain,node-3013-sync.example,"Low – generic indicator, needs internal validation"
+TRN03013,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03013,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03017,ipv4,198.51.100.158,"Low – generic indicator, needs internal validation"
+TRN03017,domain,node-3017-sync.example,"Low – generic indicator, needs internal validation"
+TRN03017,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03036,ipv4,198.51.100.177,"Low – generic indicator, needs internal validation"
+TRN03036,domain,node-3036-sync.example,"Low – generic indicator, needs internal validation"
+TRN03036,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03037,ipv4,198.51.100.178,"Low – generic indicator, needs internal validation"
+TRN03037,domain,node-3037-sync.example,"Low – generic indicator, needs internal validation"
+TRN03037,threat_actor_or_malware,Copper Dune,Medium – known actor or malware name
+TRN03037,threat_actor_or_malware,DustRAT,Medium – known actor or malware name
+TRN03040,ipv4,198.51.100.181,"Low – generic indicator, needs internal validation"
+TRN03040,domain,node-3040-sync.example,"Low – generic indicator, needs internal validation"
+TRN03045,ipv4,198.51.100.186,"Low – generic indicator, needs internal validation"
+TRN03045,domain,node-3045-sync.example,"Low – generic indicator, needs internal validation"
+TRN03045,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03049,ipv4,198.51.100.190,"Low – generic indicator, needs internal validation"
+TRN03049,domain,node-3049-sync.example,"Low – generic indicator, needs internal validation"
+TRN03049,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03049,threat_actor_or_malware,GridLock,Medium – known actor or malware name
+TRN03050,ipv4,198.51.100.191,"Low – generic indicator, needs internal validation"
+TRN03050,domain,node-3050-sync.example,"Low – generic indicator, needs internal validation"
+TRN03050,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03053,ipv4,198.51.100.194,"Low – generic indicator, needs internal validation"
+TRN03053,domain,node-3053-sync.example,"Low – generic indicator, needs internal validation"
+TRN03053,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03056,ipv4,198.51.100.197,"Low – generic indicator, needs internal validation"
+TRN03056,domain,node-3056-sync.example,"Low – generic indicator, needs internal validation"
+TRN03056,threat_actor_or_malware,Copper Dune,Medium – known actor or malware name
+TRN03059,ipv4,198.51.100.200,"Low – generic indicator, needs internal validation"
+TRN03059,domain,node-3059-sync.example,"Low – generic indicator, needs internal validation"
+TRN03059,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03061,ipv4,198.51.100.202,"Low – generic indicator, needs internal validation"
+TRN03061,domain,node-3061-sync.example,"Low – generic indicator, needs internal validation"
+TRN03061,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03061,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03066,ipv4,198.51.100.207,"Low – generic indicator, needs internal validation"
+TRN03066,domain,node-3066-sync.example,"Low – generic indicator, needs internal validation"
+TRN03066,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03066,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03068,ipv4,198.51.100.209,"Low – generic indicator, needs internal validation"
+TRN03068,domain,node-3068-sync.example,"Low – generic indicator, needs internal validation"
+TRN03068,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03077,ipv4,198.51.100.218,"Low – generic indicator, needs internal validation"
+TRN03077,domain,node-3077-sync.example,"Low – generic indicator, needs internal validation"
+TRN03077,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03078,ipv4,198.51.100.219,"Low – generic indicator, needs internal validation"
+TRN03078,domain,node-3078-sync.example,"Low – generic indicator, needs internal validation"
+TRN03078,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03084,ipv4,198.51.100.5,"Low – generic indicator, needs internal validation"
+TRN03084,domain,node-3084-sync.example,"Low – generic indicator, needs internal validation"
+TRN03084,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03084,threat_actor_or_malware,GridLock,Medium – known actor or malware name
+TRN03086,ipv4,198.51.100.7,"Low – generic indicator, needs internal validation"
+TRN03086,domain,node-3086-sync.example,"Low – generic indicator, needs internal validation"
+TRN03086,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03089,ipv4,198.51.100.10,"Low – generic indicator, needs internal validation"
+TRN03089,domain,node-3089-sync.example,"Low – generic indicator, needs internal validation"
+TRN03089,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03092,ipv4,198.51.100.13,"Low – generic indicator, needs internal validation"
+TRN03092,domain,node-3092-sync.example,"Low – generic indicator, needs internal validation"
+TRN03093,ipv4,198.51.100.14,"Low – generic indicator, needs internal validation"
+TRN03093,domain,node-3093-sync.example,"Low – generic indicator, needs internal validation"
+TRN03093,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03093,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03096,ipv4,198.51.100.17,"Low – generic indicator, needs internal validation"
+TRN03096,domain,node-3096-sync.example,"Low – generic indicator, needs internal validation"
+TRN03096,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03106,ipv4,198.51.100.27,"Low – generic indicator, needs internal validation"
+TRN03106,domain,node-3106-sync.example,"Low – generic indicator, needs internal validation"
+TRN03107,ipv4,198.51.100.28,"Low – generic indicator, needs internal validation"
+TRN03107,domain,node-3107-sync.example,"Low – generic indicator, needs internal validation"
+TRN03107,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03108,ipv4,198.51.100.29,"Low – generic indicator, needs internal validation"
+TRN03108,domain,node-3108-sync.example,"Low – generic indicator, needs internal validation"
+TRN03108,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03109,ipv4,198.51.100.30,"Low – generic indicator, needs internal validation"
+TRN03109,domain,node-3109-sync.example,"Low – generic indicator, needs internal validation"
+TRN03109,threat_actor_or_malware,BreakerFox,Medium – known actor or malware name
+TRN03115,ipv4,198.51.100.36,"Low – generic indicator, needs internal validation"
+TRN03115,domain,node-3115-sync.example,"Low – generic indicator, needs internal validation"
+TRN03115,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03122,ipv4,198.51.100.43,"Low – generic indicator, needs internal validation"
+TRN03122,domain,node-3122-sync.example,"Low – generic indicator, needs internal validation"
+TRN03133,ipv4,198.51.100.54,"Low – generic indicator, needs internal validation"
+TRN03133,domain,node-3133-sync.example,"Low – generic indicator, needs internal validation"
+TRN03133,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03139,ipv4,198.51.100.60,"Low – generic indicator, needs internal validation"
+TRN03139,domain,node-3139-sync.example,"Low – generic indicator, needs internal validation"
+TRN03139,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03139,threat_actor_or_malware,DustRAT,Medium – known actor or malware name
+TRN03140,ipv4,198.51.100.61,"Low – generic indicator, needs internal validation"
+TRN03140,domain,node-3140-sync.example,"Low – generic indicator, needs internal validation"
+TRN03140,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03140,threat_actor_or_malware,GridLock,Medium – known actor or malware name
+TRN03142,ipv4,198.51.100.63,"Low – generic indicator, needs internal validation"
+TRN03142,domain,node-3142-sync.example,"Low – generic indicator, needs internal validation"
+TRN03142,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03143,ipv4,198.51.100.64,"Low – generic indicator, needs internal validation"
+TRN03143,domain,node-3143-sync.example,"Low – generic indicator, needs internal validation"
+TRN03143,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03143,threat_actor_or_malware,DustRAT,Medium – known actor or malware name
+TRN03153,ipv4,198.51.100.74,"Low – generic indicator, needs internal validation"
+TRN03153,domain,node-3153-sync.example,"Low – generic indicator, needs internal validation"
+TRN03153,threat_actor_or_malware,DustRAT,Medium – known actor or malware name
+TRN03154,ipv4,198.51.100.75,"Low – generic indicator, needs internal validation"
+TRN03154,domain,node-3154-sync.example,"Low – generic indicator, needs internal validation"
+TRN03154,threat_actor_or_malware,Copper Dune,Medium – known actor or malware name
+TRN03154,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+TRN03158,ipv4,198.51.100.79,"Low – generic indicator, needs internal validation"
+TRN03158,domain,node-3158-sync.example,"Low – generic indicator, needs internal validation"
+TRN03158,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03159,ipv4,198.51.100.80,"Low – generic indicator, needs internal validation"
+TRN03159,domain,node-3159-sync.example,"Low – generic indicator, needs internal validation"
+TRN03159,threat_actor_or_malware,Night Heron,Medium – known actor or malware name
+TRN03160,ipv4,198.51.100.81,"Low – generic indicator, needs internal validation"
+TRN03160,domain,node-3160-sync.example,"Low – generic indicator, needs internal validation"
+TRN03160,threat_actor_or_malware,Red Kudu,Medium – known actor or malware name
+TRN03163,ipv4,198.51.100.84,"Low – generic indicator, needs internal validation"
+TRN03163,domain,node-3163-sync.example,"Low – generic indicator, needs internal validation"
+TRN03163,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9001,ipv4,203.0.113.77,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9001,domain,maintenance-check.example,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9001,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9002,ipv4,198.51.100.44,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9002,domain,desert-sync.example,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9002,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9004,sha256,8e50b5f71c8efa22abe51646264f41367451d4acc42134c8c2b787c3190bc393,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9004,threat_actor_or_malware,Sandstorm Loader,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9004,threat_actor_or_malware,Kalahari Jackal,High – linked to current Kalahari Jackal / Sandstorm campaign
+RPT9005,domain,maintenance-check.example,High – linked to current Kalahari Jackal / Sandstorm campaign
